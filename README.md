@@ -2,7 +2,7 @@
 
 2021年6月　POSSE(大学生プログラミングコミュニティ)に入会。プログラミング(WEB開発)を始める。
 
-2021年7月　[個人開発]「クイズWEBアプリ(CMS対応)」を開発。
+2021年7月　[個人開発][「クイズWEBアプリ(CMS対応)」](https://github.com/akira1515/study-tracker-app/tree/ph3-quizy-develop-2)を開発。
 
 2021年7月　[ハッカソン][「自己紹介サイト」](https://github.com/posse-ap/rookie_hackathon-202107-teamH/tree/akira-Number5-develop)を開発。
 
